@@ -141,7 +141,7 @@ with tf.Session(config=tf.ConfigProto(gpu_options=gpu_options)) as sess:
 
 `准确率`
 
-![准确率](C:\Users\王的电脑\Desktop\准确率.PNG)
+![准确率](准确率.PNG)
 
 ```
 iter:0  train_acc1:0.85  train_acc2:0.85  test_acc:0.9186
